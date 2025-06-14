@@ -58,9 +58,7 @@ I’m excited to grow my career as a frontend developer and connect with profess
   <a href="https://github.com/Apurbaroy01" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub" height="40" />
   </a>
-  <a href="#" target="_blank">
-    <img src="#" alt="LinkedIn" height="40" />
-  </a>
+  
   <a href="https://www.facebook.com/Apurbaroy01" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook&logoColor=white" alt="Facebook" height="40" />
   </a>
