@@ -55,7 +55,7 @@ I’m excited to grow my career as a frontend developer and connect with profess
 ---
 
 ### 🧰 Languages and Tools:
-<p align="left">
+<p style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="bootstrap" height="40"/></a>
   
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="css3" height="40"/></a>
