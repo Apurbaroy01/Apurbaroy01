@@ -27,24 +27,6 @@ Motivated and detail-oriented Junior MERN Stack Developer with a passion for bui
 
 I’ve worked on a variety of projects, from small websites to large enterprise-level applications. My approach emphasizes user-centric design to enhance usability and performance.
 
-#### 🚀 Notable Projects & Contributions:
-
-- 🧩 **ABlocks – Gutenberg Block Development**  
-  Developed custom WordPress Gutenberg blocks for ABlocks, focusing on performance, customization, and user experience.
-  - 📊 **Table Block** – Dynamic row and cell management with optimized rendering.
-  - 📢 **Social Share Block** – Fully customizable social icons with icon/text toggle, hover animation, and responsive layout.
-  - 📌 **Notice Block** – Styled notice/message blocks with dismiss options and default templates.
-  - 🧮 **Filterable Block** – Built filterable content layouts with category/tag filtering and sorting logic.
-  - 🍴 **Menu Block** – Created a responsive, multi-column menu builder using Gutenberg inner blocks.
-
-- 🛠️ **Kodezen Block Development**  
-  Contributed to advanced block features for the Kodezen project, enhancing UI and customization experience using React and Gutenberg APIs.
-
-These projects allowed me to deeply engage with WordPress development, JavaScript, React, PHP, and SCSS while maintaining optimal performance and clean user interfaces.
-
-
----
-
 ### 📚 Passion for Learning
 I’m deeply passionate about frontend development. I actively follow the latest industry trends, participate in developer communities, attend conferences, and engage in continuous online learning.
 
