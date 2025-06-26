@@ -42,7 +42,7 @@ Motivated and detail-oriented Junior MERN Stack Developer with a passion for bui
 - **Languages:** HTML, CSS, JavaScript.. 
 - **Frameworks/Libraries:** React.js, Daisy Ui, TailwindCSS. 
 - **Tools & Platforms:** Git, GitHub, WordPress.. 
-- **MERN Stack:**  React.js, Firebase..
+- **MERN Stack:**  React.js, Firebase.Expressjs..
 
 
 ---
