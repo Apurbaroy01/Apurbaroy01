@@ -1,4 +1,35 @@
-![Web Developer](https://i.ibb.co/XZrLm9k6/Blue-Black-Tech-Programmer-Presentation.png)
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?lines=Hi,+Everyone;I'm+Apurba+Roy&center=true&size=35&color=FF0000" 
+      alt="Typing SVG"
+    >
+  </a>
+</h1>
+
+<div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
+  <h1 align="center">
+    <a href="https://git.io/typing-svg" target="_blank">
+      <img 
+        src="https://readme-typing-svg.herokuapp.com?lines=💌+apurbaroy00011@gmail.com&center=true&size=20&&duration=5000&pause=5000" 
+        alt="Typing SVG"
+      >
+    </a>
+    <a href="https://git.io/typing-svg" target="_blank">
+      <img 
+        src="https://readme-typing-svg.herokuapp.com?lines=📞+01311271610&center=true&size=20&&duration=5000&pause=5000" 
+        alt="Typing SVG"
+      >
+    </a>
+    <a href="https://git.io/typing-svg" target="_blank">
+      <img 
+        src="https://readme-typing-svg.herokuapp.com?lines=🏠+Kotalipata,+Gopalganj,+Bangladesh&center=true&size=20&duration=5000&pause=5000" 
+        alt="Typing SVG"
+      >
+    </a>
+  </h1>
+</div>
 
 ### Hi there 👋, I'm Apurba Roy  
 #### Web Developer  
