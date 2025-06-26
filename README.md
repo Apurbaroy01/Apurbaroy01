@@ -24,7 +24,7 @@
     </a>
     <a href="https://git.io/typing-svg" target="_blank">
       <img 
-        src="https://readme-typing-svg.herokuapp.com?lines=🏠+Kotalipata,+Gopalganj,+Bangladesh&center=true&size=20&duration=5000&pause=5000" 
+        src="https://readme-typing-svg.herokuapp.com?lines=🏠+Kotalipata,+Gopalganj,+Bangladesh&center=true&size=20&duration=5000&pause=5000&color=00FF00" 
         alt="Typing SVG"
       >
     </a>
