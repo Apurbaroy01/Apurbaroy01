@@ -9,19 +9,19 @@
   <h1 align="center">
     <a href="https://git.io/typing-svg" target="_blank">
       <img 
-        src="https://readme-typing-svg.herokuapp.com?lines=💌+apurbaroy00011@gmail.com&center=true&size=20&&duration=5000&pause=5000" 
+        src="https://readme-typing-svg.herokuapp.com?lines=💌+apurbaroy00011@gmail.com&center=true&size=15&&duration=5000&pause=5000" 
         alt="Typing SVG"
       >
     </a>
     <a href="https://git.io/typing-svg" target="_blank">
       <img 
-        src="https://readme-typing-svg.herokuapp.com?lines=📞+01311271610&center=true&size=20&&duration=5000&pause=5000" 
+        src="https://readme-typing-svg.herokuapp.com?lines=📞+01311271610&center=true&size=15&&duration=5000&pause=5000" 
         alt="Typing SVG"
       >
     </a>
     <a href="https://git.io/typing-svg" target="_blank">
       <img 
-        src="https://readme-typing-svg.herokuapp.com?lines=🏠+Kotalipata,+Gopalganj,+Bangladesh&center=true&size=20&duration=5000&pause=5000&color=00FF00" 
+        src="https://readme-typing-svg.herokuapp.com?lines=🏠+Kotalipata,+Gopalganj,+Bangladesh&center=true&size=15&duration=5000&pause=5000&color=00FF00" 
         alt="Typing SVG"
       >
     </a>
