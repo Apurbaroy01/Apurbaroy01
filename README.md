@@ -1,3 +1,7 @@
+<!-- Full Width Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&descAlignY=29&descAlign=40&textBg=false&fontAlign=50&fontAlignY=50&animation=fadeIn&stroke=100&section=header" />
+
+
 <img src="https://komarev.com/ghpvc/?username=Apurbaroy01&label=Profile%20views&color=0e75b6&style=flat" alt="Apurba-roy" />
 <h1 align="center">
   <img 
@@ -105,4 +109,9 @@ I actively explore new trends in frontend development, participate in communitie
 ## 📊 GitHub Stats   
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Apurbaroy01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"  />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apurbaroy01&theme=tokyonight" height="160"/> 
+
+---
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&fontAlign=50&fontAlignY=50&animation=fadeIn&section=footer" />
 
