@@ -85,11 +85,6 @@ I actively explore new trends in frontend development, participate in communitie
 </p>
 
 ---
-## 📊 GitHub Stats   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Apurbaroy01&theme=tokyonight" height="160"/> 
-
-
----
 
 ## 🧰 Languages and Tools
 
@@ -104,3 +99,9 @@ I actively explore new trends in frontend development, participate in communitie
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="30"/>
 </p>
+
+---
+
+## 📊 GitHub Stats   
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Apurbaroy01&theme=tokyonight" height="160"/> 
+
