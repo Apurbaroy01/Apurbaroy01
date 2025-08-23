@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=Apurbaroy01&label=Profile%20views&color=0e75b6&style=flat" alt="Apurba-roy" />
 <h1 align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?lines=Hi,+Everyone;I'm+Apurba+Roy;A+MERN+Stack+Developer&center=true&size=30&color=FF5733&font=Fira+Code" 
