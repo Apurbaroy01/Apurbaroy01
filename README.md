@@ -85,6 +85,11 @@ I actively explore new trends in frontend development, participate in communitie
 </p>
 
 ---
+## 📊 GitHub Stats   
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Apurbaroy01&theme=tokyonight" height="160"/> 
+
+
+---
 
 ## 🧰 Languages and Tools
 
