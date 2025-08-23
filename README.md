@@ -103,5 +103,6 @@ I actively explore new trends in frontend development, participate in communitie
 ---
 
 ## 📊 GitHub Stats   
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Apurbaroy01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"  />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apurbaroy01&theme=tokyonight" height="160"/> 
 
