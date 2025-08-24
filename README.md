@@ -1,8 +1,6 @@
 <!-- Full Width Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&descAlignY=29&descAlign=40&textBg=false&fontAlign=50&fontAlignY=50&animation=fadeIn&stroke=100&section=header" />
 
-
-<img src="https://komarev.com/ghpvc/?username=Apurbaroy01&label=Profile%20views&color=0e75b6&style=flat" alt="Apurba-roy" />
 <h1 align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?lines=Hi,+Everyone;I'm+Apurba+Roy;A+MERN+Stack+Developer&center=true&size=30&color=FF5733&font=Fira+Code" 
@@ -31,8 +29,9 @@
       >
     </a>
   </h1>
+  <img src="https://komarev.com/ghpvc/?username=Apurbaroy01&label=Profile%20views&color=0e75b6&style=flat" alt="Apurba-roy" />
 </div>
----
+
 
 ## 👋 Hi there, I'm **Apurba Roy**  
 ### 💻 MERN Stack Web Developer  
