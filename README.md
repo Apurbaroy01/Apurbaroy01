@@ -103,7 +103,6 @@
   <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
----
 
 <!-- 🎨 Profile Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&fontAlign=50&fontAlignY=50&animation=fadeIn&section=footer" />
