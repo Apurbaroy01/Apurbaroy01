@@ -10,6 +10,8 @@
 
 ---
 
+<img src="https://komarev.com/ghpvc/?username=Apurbaroy01&label=Profile%20views&color=0e75b6&style=flat" alt="Apurba-roy" /> </div>
+
 ## 👨‍💻 About Me  
 
 - 🚀 MERN Stack Developer | MongoDB • Express.js • React.js • Node.js  
