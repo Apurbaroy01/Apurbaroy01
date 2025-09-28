@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Apurba+Roy;MERN+Stack+Developer;Passionate+Full+Stack+Learner;Always+Exploring+New+Tech✨&center=true&size=30&color=FF5733&font=Fira+Code" 
+    src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Apurba+Roy;MERN+Stack+Developer✨&center=true&size=30&color=FF5733&font=Fira+Code" 
     alt="Typing SVG"
   >
 </h1>
