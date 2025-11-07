@@ -79,7 +79,7 @@
 
 ## 🚀 Projects & Experience  
 
-- 🔑 **Authentication System** → Firebase + JWT Secure Auth  
+- 🔑 **Authentication System** → Firebase + JWT Secure Auth + Firebase Admin
 - 🛒 **E-commerce Web App** → Product management, cart system, role-based admin panel  
 - 📚 **Educational Platform** → Course listing, enrollments, and dashboard  
 - 📊 **Dashboard UI** → Role-based authorization, real-time database updates  
