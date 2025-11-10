@@ -1,5 +1,5 @@
 <!-- 🎨 Profile Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Apurba%20Roy%20👨‍💻&fontAlign=50&fontAlignY=40&desc=MERN%20Stack%20Web%20Developer&descAlignY=65&animation=fadeIn&stroke=100&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Apurba%20Roy%20👨‍💻&fontAlign=50&fontAlignY=40&desc=MERN%20Stack%20Developer&descAlignY=65&animation=fadeIn&stroke=100&section=header" />
 
 <h1 align="center">
   <img 
@@ -8,19 +8,20 @@
   >
 </h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Apurbaroy01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
 ---
 
-<img src="https://komarev.com/ghpvc/?username=Apurbaroy01&label=Profile%20views&color=0e75b6&style=flat" alt="Apurba-roy" /> </div>
-
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 
 - 🚀 MERN Stack Developer | MongoDB • Express.js • React.js • Node.js  
-- 🎯 Focused on **clean code, scalable architecture & responsive design** 
-- 🔗 Open-source enthusiast & always curious about **modern web technologies**  
-- 🤝 Love working with collaborative teams & contributing to impactful projects  
+- 🎯 Focused on **clean code, scalable architecture & responsive design**  
+- 🔗 Open-source enthusiast & passionate about **modern web technologies**  
+- 🤝 Collaborative team player, delivering high-quality projects  
 
 ---
-
 
 ## 💻 My Tech Stack  
 
@@ -73,41 +74,43 @@
 
 </p>
 
+---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Tech Stack | Highlights |
+|---------|------------|------------|
+| **E-Commerce Web App** | React, Node, Express, MongoDB | Cart system, role-based admin, payment integration |
+| **Authentication System** | Firebase, JWT | Secure login & Firebase Admin integration |
+| **Educational Platform** | MERN | Courses listing, enrollment dashboard, real-time updates |
+| **Dashboard UI** | React, Tailwind | Admin panel with dynamic charts & analytics |
+
+</div>
 
 ---
 
-## 🚀 Projects & Experience  
-
-- 🔑 **Authentication System** → Firebase + JWT Secure Auth + Firebase Admin
-- 🛒 **E-commerce Web App** → Product management, cart system, role-based admin panel  
-- 📚 **Educational Platform** → Course listing, enrollments, and dashboard  
-- 📊 **Dashboard UI** → Role-based authorization, real-time database updates  
-
----
-
-## 📊 GitHub Analytics  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Apurbaroy01&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apurbaroy01&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurbaroy01&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apurbaroy01&theme=tokyonight" height="150"/>
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Apurbaroy01&theme=react-dark&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Apurbaroy01&theme=react-dark&area=true&hide_border=true" width="95%" />
 </p>
 
 ---
 
-## 📞 Contact Me  
+## 📞 Contact Me
 
 <p align="center">
   <a href="https://github.com/Apurbaroy01" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.facebook.com/Apurbaroy01" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/Apurbaroy01" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:apurbaroy@example.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
 
 <!-- 🎨 Profile Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&fontAlign=50&fontAlignY=50&animation=fadeIn&section=footer" />
