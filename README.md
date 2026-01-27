@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 MERN Stack Developer | MongoDB • Mongoode • Express.js • Node.js • React.js  
+- 🚀 MERN Stack Developer | MongoDB • Mongoose • Express.js • Node.js • React.js  
 - 🎯 Focused on **clean code, scalable architecture & responsive design**  
 - 🔗 Open-source enthusiast & passionate about **modern web technologies**  
 - 🤝 Collaborative team player, delivering high-quality projects  
@@ -82,7 +82,7 @@
 
 | Project | Tech Stack | Highlights |
 |---------|------------|------------|
-| **E-Commerce Web App** | React, Node, Express, MongoDB | Cart system, role-based admin, payment integration |
+| **E-Commerce Web App** | React, Node, Express, Mongoose, MongoDB | Cart system, role-based admin, payment integration |
 | **Authentication System** | Firebase, JWT | Secure login & Firebase Admin integration |
 | **Educational Platform** | MERN | Courses listing, enrollment dashboard, real-time updates |
 | **Dashboard UI** | React, Tailwind | Admin panel with dynamic charts & analytics |
