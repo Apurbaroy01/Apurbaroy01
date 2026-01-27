@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 MERN Stack Developer | MongoDB • Express.js • React.js • Node.js  
+- 🚀 MERN Stack Developer | MongoDB • Mongoode • Express.js • Node.js • React.js  
 - 🎯 Focused on **clean code, scalable architecture & responsive design**  
 - 🔗 Open-source enthusiast & passionate about **modern web technologies**  
 - 🤝 Collaborative team player, delivering high-quality projects  
