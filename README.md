@@ -1,11 +1,11 @@
 <!-- 🎨 Profile Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Apurba%20Roy%20👨‍💻&fontAlign=50&fontAlignY=40&desc=MERN%20Stack%20Developer&descAlignY=65&animation=fadeIn&stroke=100&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Apurba%20Roy%20👨‍💻&fontAlign=50&fontAlignY=40&desc=MERN%20Stack%20Developer%20%7C%20DevOps%20Engineer&descAlignY=65&animation=fadeIn&stroke=100&section=header" />
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Apurba+Roy;MERN+Stack+Developer✨&center=true&size=30&color=FF5733&font=Fira+Code" 
-    alt="Typing SVG"
-  >
+src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Apurba+Roy;MERN+Stack+Developer;DevOps+Engineer;Docker+%7C+VPS+%7C+Nginx&center=true&size=30&color=FF5733&font=Fira+Code" 
+alt="Typing SVG"
+/>
 </h1>
 
 <p align="center">
@@ -16,10 +16,11 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 MERN Stack Developer | MongoDB • Mongoose • Express.js • Node.js • React.js  
-- 🎯 Focused on **clean code, scalable architecture & responsive design**  
-- 🔗 Open-source enthusiast & passionate about **modern web technologies**  
-- 🤝 Collaborative team player, delivering high-quality projects  
+- 🚀 MERN Stack Developer & DevOps Engineer  
+- 💻 Building scalable web applications with **MongoDB, Express.js, React.js, Node.js**  
+- ⚙️ Experienced with **Docker, VPS, Nginx, CloudPanel & server deployment**  
+- ☁️ Deploying applications on **Hostinger VPS, Vercel, Netlify**  
+- 🎯 Focused on **clean architecture, scalable infrastructure & performance optimization** 
 
 ---
 
@@ -72,6 +73,14 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
+<!-- DevOps & Cloud -->
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+<img src="https://img.shields.io/badge/VPS-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" alt="VPS"/>
+<img src="https://img.shields.io/badge/Hostinger-%236733FF.svg?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger"/>
+<img src="https://img.shields.io/badge/CloudPanel-%23007ACC.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="CloudPanel"/>
+<img src="https://img.shields.io/badge/DevOps-%230A0A0A.svg?style=for-the-badge&logo=linux&logoColor=white" alt="DevOps"/>
+
 </p>
 
 ---
@@ -82,10 +91,10 @@
 
 | Project | Tech Stack | Highlights |
 |---------|------------|------------|
-| **E-Commerce Web App** | React, Node, Express, Mongoose, MongoDB | Cart system, role-based admin, payment integration |
-| **Authentication System** | Firebase, JWT | Secure login & Firebase Admin integration |
-| **Educational Platform** | MERN | Courses listing, enrollment dashboard, real-time updates |
-| **Dashboard UI** | React, Tailwind | Admin panel with dynamic charts & analytics |
+| **Dockerized MERN Deployment** | Docker, Nginx, VPS | Full stack containerized deployment |
+| **Hostinger VPS Deployment** | VPS, CloudPanel, Nginx | Production deployment with reverse proxy |
+| **E-Commerce Web App** | MERN Stack | Cart system, admin dashboard |
+| **Authentication System** | Firebase, JWT | Secure authentication |
 
 </div>
 
