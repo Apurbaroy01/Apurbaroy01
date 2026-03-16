@@ -12,6 +12,8 @@ alt="Typing SVG"
   <img src="https://komarev.com/ghpvc/?username=Apurbaroy01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
+📄 Resume:
+[My Resume](https://1drv.ms/w/c/3c9d76eaa99be0f4/IQRcqbIPM9NTQ7_B1dRXtvzUAUZR9yAv6YIhzovJwl4bpi0)
 ---
 
 ## 👨‍💻 About Me
