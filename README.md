@@ -21,7 +21,7 @@ alt="Typing SVG"
 - 🚀 Full Stack Developer & DevOps Engineer  
 - 💻 Building scalable web applications with **MongoDB, Express.js, React.js, Node.js**  
 - ⚙️ Experienced with **Docker, VPS, Nginx, CloudPanel & server deployment**  
-- ☁️ Deploying applications on **Hostinger VPS, Vercel, Netlify**  
+- ☁️ Deploying applications on **Hostinger VPS, CludPanel, Vercel, Netlify**  
 - 🎯 Focused on **clean architecture, scalable infrastructure & performance optimization** 
 
 ---
