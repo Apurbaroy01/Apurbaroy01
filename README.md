@@ -96,7 +96,7 @@ alt="Typing SVG"
 | **Dockerized MERN Deployment** | Docker, Nginx, VPS | Full stack containerized deployment |
 | **Hostinger VPS Deployment** | VPS, CloudPanel, Nginx | Production deployment with reverse proxy |
 | **E-Commerce Web App** | MERN Stack | Cart system, admin dashboard |
-| **Authentication System** | Firebase, JWT | Secure authentication |
+| **Authentication System** | Better-Auth, Firebase, JWT | Secure authentication |
 
 </div>
 
