@@ -13,7 +13,7 @@ alt="Typing SVG"
 </p>
 
 📄 Resume:
-[My Resume](https://1drv.ms/w/c/3c9d76eaa99be0f4/IQRcqbIPM9NTQ7_B1dRXtvzUAUZR9yAv6YIhzovJwl4bpi0)
+[My Resume](https://drive.google.com/file/d/1Gx6qudLXN2DNE1FC06neNcEadue32SIb/view)
 ---
 
 ## 👨‍💻 About Me
