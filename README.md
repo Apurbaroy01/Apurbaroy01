@@ -13,16 +13,12 @@ alt="Typing SVG"
 </p>
 
 📄 Resume:
-[My Resume](https://drive.google.com/file/d/1Gx6qudLXN2DNE1FC06neNcEadue32SIb/view)
+[My Resume](https://docs.google.com/document/d/1CgOpQREfjU4EgBg_HQWmFKSpUbdMjJeN1ILGkwo-Rvk/edit?usp=sharing)
 ---
 
 ## 👨‍💻 About Me
 
-- 🚀 Full Stack Developer & DevOps Engineer  
-- 💻 Building scalable web applications with **MongoDB, Mongoose, Redis Server, Nginix, Express.js, React.js, Next js, Typescript, Socket io, Node.js**  
-- ⚙️ Experienced with **Docker, VPS, Nginx, CloudPanel & server deployment**  
-- ☁️ Deploying applications on **Hostinger VPS, CludPanel, Firebase, Vercel, Netlify**  
-- 🎯 Focused on **clean architecture, scalable infrastructure & performance optimization** 
+I'm a Full Stack Developer(MERN) and DevOps Engineer passionate about building modern, scalable, and high-performance web applications. I enjoy designing clean architectures, optimizing performance, and deploying production-ready applications.
 
 ---
 
@@ -91,16 +87,28 @@ alt="Typing SVG"
 
 <div align="center">
 
-| Project | Tech Stack | Highlights |
-|---------|------------|------------|
-| **Dockerized MERN Deployment** | Docker, Nginx, VPS Server | Full stack containerized deployment |
-| **Hostinger VPS Deployment** | VPS, CloudPanel, Nginx | Production deployment with reverse proxy |
-| **E-Commerce Web App** | MERN Stack | Cart system, admin dashboard |
-| **Authentication System** | Better-Auth, Firebase, JWT | Secure authentication |
+| Project | Technologies | Description |
+|---------|--------------|-------------|
+| **🏢 Enterprise Management System** | Next.js, Express.js, MongoDB, Redis | Role-based management platform with attendance, leave, payroll, expense tracking, and analytics dashboard. |
+| **🐳 Dockerized MERN Deployment** | Docker, Nginx, VPS, CloudPanel | Containerized MERN application deployed with Docker, Nginx reverse proxy, SSL, and production-ready infrastructure. |
+| **☁️ VPS Server Deployment** | Hostinger VPS, CloudPanel, Nginx | Configured Linux server, reverse proxy, process management, SSL, and automated deployment workflow. |
+| **🛒 E-Commerce Platform** | MongoDB, Express.js, React.js, Node.js | Complete e-commerce solution with product management, shopping cart, admin dashboard, and order management. |
+| **🔐 Authentication System** | Better Auth, Firebase, JWT | Secure authentication with role-based authorization, session handling, and protected APIs. |
+| **⚡ Real-Time Applications** | Socket.IO, Node.js, React.js | Built real-time chat, notifications, and live data synchronization using WebSockets. |
 
 </div>
 
 ---
+
+### ✨ Project Highlights
+
+- 🚀 Production-ready Full Stack Applications
+- 🐳 Docker & Containerized Deployment
+- ☁️ VPS, Nginx & CloudPanel Server Management
+- 🔒 Secure Authentication & Role-Based Access Control
+- ⚡ Performance Optimization & Scalable Architecture
+- 📦 REST APIs & Real-Time Communication
+- 🏗️ Clean Code, Modular Structure & Best Practices
 
 ## 📊 GitHub Stats
 
