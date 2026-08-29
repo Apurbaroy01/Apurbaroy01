@@ -10,7 +10,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⢟⢽⡗⢌⢪⠨⠢⡑⠅⡕⡘⢌⠢⡱⢱⠹⡸⡸⣽⣾⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀  Database: MongoDB, PostgreSQL, Redis Server
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢈⣯⣃⣴⣓⢯⢷⢾⣜⡴⡸⣰⣵⣳⢗⣷⣳⣜⣾⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀  
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡒⣷⠂⡖⡾⡺⡯⣹⡺⣍⢏⢿⣾⣳⣷⢷⣗⡷⣱⣿⣣⠀⠀⠀⠀⠀⠀⠀⠀⠀  Contact: apurbaroy00011@gmail.com
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⡅⡇⠃⡘⢜⢪⢫⢐⢮⢃⢂⢻⣚⢗⡝⡗⡕⡣⡓⡧⡗⠀⠀⠀⠀⠀⠀⠀⠀⠀  GitHub: https://github.com/Apurbaroy01
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⡅⡇⠃⡘⢜⢪⢫⢐⢮⢃⢂⢻⣚⢗⡝⡗⡕⡣⡓⡧⡗⠀⠀⠀⠀⠀⠀⠀⠀⠀  Portfolio: https://apurbaroy.vercel.app
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢌⠈⡐⠔⢥⢪⡢⡃⡢⢰⢰⢱⡣⡇⡇⡇⡕⣕⢯⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀  
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠆⢐⠡⠢⡑⠜⣜⣕⡯⣯⣗⢵⢱⢱⢸⢸⡸⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⠐⡨⢨⢾⡹⡼⢼⢵⣳⢯⣷⣗⡝⣜⢮⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  
@@ -21,10 +21,6 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⡤⣔⢼⣏⠌⠔⢌⠢⡣⡣⡣⡳⡹⡮⣻⣷⣿⣿⡿⣿⡿⣿⣿⢷⣻⡷⣯⣟⣯⣷  
 ⠀⠀⠀⢀⡠⣠⢖⣾⡵⣟⢾⢽⣳⣳⢥⠑⢅⢣⠪⡘⠔⡅⣧⣿⣿⡿⣟⣿⣿⣿⢿⣿⢿⣿⡽⣯⡷⣟⣷⣻  
 ```
-
-
-<!-- 🎨 Profile Header -->
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Apurba%20Roy%20👨‍💻&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Engineer&descAlignY=65&animation=fadeIn&stroke=100&section=header" /> -->
 
 <h1 align="center">
   <img 
@@ -39,7 +35,7 @@ alt="Typing SVG"
 
 📄 Resume:
 [My Resume](https://docs.google.com/document/d/1CgOpQREfjU4EgBg_HQWmFKSpUbdMjJeN1ILGkwo-Rvk/edit?usp=sharing)
----
+
 
 ## 👨‍💻 About Me
 
@@ -146,8 +142,6 @@ I'm a Full Stack Developer(MERN) and DevOps Engineer passionate about building m
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Apurbaroy01&theme=react-dark&area=true&hide_border=true" width="95%" />
 </p>
 
-
-## 📞 Contact Me
 
 <p align="center">
   <a href="https://github.com/Apurbaroy01" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
