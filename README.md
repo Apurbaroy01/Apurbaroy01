@@ -6,7 +6,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⣿⢿⣿⣯⣯⣿⣾⣿⢿⣿⣷⣿⣾⣿⣿⣿⣽⣿⡃⠀⠀⠀⠀⠀⠀⠀⠀⠀  
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣲⢽⣿⣿⣯⣷⣿⣟⣯⢿⢿⣻⢽⡻⣟⡿⣿⣻⣯⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀  Languages: JavaScript, TypeScript
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣬⣾⣾⣿⣟⣯⡿⣪⡺⡪⡣⡳⡱⡕⡝⡜⡎⡟⣿⡿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  Frontend: React.js, Next.js, Tailwind CSS
-⠀⠀⠀⠀⠀⠀⠀⠀⠠⣹⣷⣿⣟⡿⡛⡞⢜⠜⡘⡌⡎⢎⢎⢎⢇⢇⢇⢎⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀  Backend: TypeScript, Node.js, Express.js, mongoose, Prisma, Socket.io
+⠀⠀⠀⠀⠀⠀⠀⠀⠠⣹⣷⣿⣟⡿⡛⡞⢜⠜⡘⡌⡎⢎⢎⢎⢇⢇⢇⢎⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀  Backend: TypeScript, Node.js, Express.js, mongoose, Prisma,Socket.io
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⢟⢽⡗⢌⢪⠨⠢⡑⠅⡕⡘⢌⠢⡱⢱⠹⡸⡸⣽⣾⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀  Database: MongoDB, PostgreSQL, Redis Server
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢈⣯⣃⣴⣓⢯⢷⢾⣜⡴⡸⣰⣵⣳⢗⣷⣳⣜⣾⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀  
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡒⣷⠂⡖⡾⡺⡯⣹⡺⣍⢏⢿⣾⣳⣷⢷⣗⡷⣱⣿⣣⠀⠀⠀⠀⠀⠀⠀⠀⠀  Contact: apurbaroy00011@gmail.com
