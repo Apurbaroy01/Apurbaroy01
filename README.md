@@ -5,7 +5,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⡯⣿⣭⣭⣽⣯⣯⣿⣿⣾⣿⣿⣻⣽⣟⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   IDE: VS Code,
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⣿⢿⣿⣯⣯⣿⣾⣿⢿⣿⣷⣿⣾⣿⣿⣿⣽⣿⡃⠀⠀⠀⠀⠀⠀⠀⠀⠀  
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣲⢽⣿⣿⣯⣷⣿⣟⣯⢿⢿⣻⢽⡻⣟⡿⣿⣻⣯⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀  Languages: JavaScript, TypeScript
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣬⣾⣾⣿⣟⣯⡿⣪⡺⡪⡣⡳⡱⡕⡝⡜⡎⡟⣿⡿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  Frontend: React.js, Next.js, Tailwind CSS
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣬⣾⣾⣿⣟⣯⡿⣪⡺⡪⡣⡳⡱⡕⡝⡜⡎⡟⣿⡿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  Frontend: React.js, Next.js, Tailwind CSS, TypeScript
 ⠀⠀⠀⠀⠀⠀⠀⠀⠠⣹⣷⣿⣟⡿⡛⡞⢜⠜⡘⡌⡎⢎⢎⢎⢇⢇⢇⢎⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀  Backend: TypeScript, Node.js, Express.js, mongoose, Prisma,Socket.io
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⢟⢽⡗⢌⢪⠨⠢⡑⠅⡕⡘⢌⠢⡱⢱⠹⡸⡸⣽⣾⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀  Database: MongoDB, PostgreSQL, Redis Server
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢈⣯⣃⣴⣓⢯⢷⢾⣜⡴⡸⣰⣵⣳⢗⣷⣳⣜⣾⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀  
