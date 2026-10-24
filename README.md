@@ -110,7 +110,7 @@ I'm a Full Stack Developer(MERN) and DevOps Engineer passionate about building m
 
 | Project | Technologies | Description |
 |---------|--------------|-------------|
-| **🏢 Enterprise Management System** | Next.js, Express.js, MongoDB, Redis | Role-based management platform with attendance, leave, payroll, expense tracking, and analytics dashboard. |
+| **🏢 Enterprise Management System** | Next.js, Express.js, MongoDB,PostgreSQL, Redis | Role-based management platform with attendance, leave, payroll, expense tracking, and analytics dashboard. |
 | **🐳 Dockerized MERN Deployment** | Docker, Nginx, VPS, CloudPanel | Containerized MERN application deployed with Docker, Nginx reverse proxy, SSL, and production-ready infrastructure. |
 | **☁️ VPS Server Deployment** | Hostinger VPS, CloudPanel, Nginx | Configured Linux server, reverse proxy, process management, SSL, and automated deployment workflow. |
 | **🛒 E-Commerce Platform** | MongoDB, Express.js, React.js, Node.js | Complete e-commerce solution with product management, shopping cart, admin dashboard, and order management. |
