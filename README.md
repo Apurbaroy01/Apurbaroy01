@@ -2,7 +2,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⡀⡀⡠⡀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     OS: Linux / Windows
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢤⡶⣾⣘⣪⣖⣗⡿⣽⣯⢯⣳⡵⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   Role: Full Stack Software Engineer
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⡯⣿⣭⣭⣽⣯⣯⣿⣿⣾⣿⣿⣻⣽⣟⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   IDE: VS Code,
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⡯⣿⣭⣭⣽⣯⣯⣿⣿⣾⣿⣿⣻⣽⣟⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   IDE: VS Code, OpenCode, Antigravity
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⣿⢿⣿⣯⣯⣿⣾⣿⢿⣿⣷⣿⣾⣿⣿⣿⣽⣿⡃⠀⠀⠀⠀⠀⠀⠀⠀⠀  
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣲⢽⣿⣿⣯⣷⣿⣟⣯⢿⢿⣻⢽⡻⣟⡿⣿⣻⣯⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀  Languages: JavaScript, TypeScript
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣬⣾⣾⣿⣟⣯⡿⣪⡺⡪⡣⡳⡱⡕⡝⡜⡎⡟⣿⡿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  Frontend: React.js, Next.js, Tailwind CSS, TypeScript
