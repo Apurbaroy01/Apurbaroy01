@@ -7,7 +7,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣲⢽⣿⣿⣯⣷⣿⣟⣯⢿⢿⣻⢽⡻⣟⡿⣿⣻⣯⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀  Languages: JavaScript, TypeScript
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣬⣾⣾⣿⣟⣯⡿⣪⡺⡪⡣⡳⡱⡕⡝⡜⡎⡟⣿⡿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  Frontend: React.js, Next.js, Tailwind CSS, TypeScript
 ⠀⠀⠀⠀⠀⠀⠀⠀⠠⣹⣷⣿⣟⡿⡛⡞⢜⠜⡘⡌⡎⢎⢎⢎⢇⢇⢇⢎⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀  Backend: TypeScript, Node.js, Express.js, mongoose, Prisma,Socket.io
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⢟⢽⡗⢌⢪⠨⠢⡑⠅⡕⡘⢌⠢⡱⢱⠹⡸⡸⣽⣾⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀  Database: MongoDB, PostgreSQL, Redis Server
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⢟⢽⡗⢌⢪⠨⠢⡑⠅⡕⡘⢌⠢⡱⢱⠹⡸⡸⣽⣾⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀  Database: MongoDB, PostgreSQL, Redis
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢈⣯⣃⣴⣓⢯⢷⢾⣜⡴⡸⣰⣵⣳⢗⣷⣳⣜⣾⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀  
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡒⣷⠂⡖⡾⡺⡯⣹⡺⣍⢏⢿⣾⣳⣷⢷⣗⡷⣱⣿⣣⠀⠀⠀⠀⠀⠀⠀⠀⠀  Contact: apurbaroy00011@gmail.com
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⡅⡇⠃⡘⢜⢪⢫⢐⢮⢃⢂⢻⣚⢗⡝⡗⡕⡣⡓⡧⡗⠀⠀⠀⠀⠀⠀⠀⠀⠀  Portfolio: https://apurbaroy.vercel.app
