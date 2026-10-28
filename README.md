@@ -129,7 +129,7 @@ I'm a Full Stack Developer(MERN) and DevOps Engineer passionate about building m
 - 🔒 Secure Authentication & Role-Based Access Control
 - ⚡ Performance Optimization & Scalable Architecture
 - 📦 REST APIs & Real-Time Communication
-- 🏗️ Clean Code, Modular Structure & Best Practices
+- 🏗️ Clean Code, Modular Structure & Best Practices.
 
 ## 📊 GitHub Stats
 
