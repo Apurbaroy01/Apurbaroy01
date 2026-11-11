@@ -9,8 +9,8 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠠⣹⣷⣿⣟⡿⡛⡞⢜⠜⡘⡌⡎⢎⢎⢎⢇⢇⢇⢎⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀  Backend: TypeScript, Node.js, Express.js, mongoose, Prisma,Socket.io
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⢟⢽⡗⢌⢪⠨⠢⡑⠅⡕⡘⢌⠢⡱⢱⠹⡸⡸⣽⣾⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀  Database: MongoDB, PostgreSQL, Redis
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢈⣯⣃⣴⣓⢯⢷⢾⣜⡴⡸⣰⣵⣳⢗⣷⣳⣜⣾⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀  
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡒⣷⠂⡖⡾⡺⡯⣹⡺⣍⢏⢿⣾⣳⣷⢷⣗⡷⣱⣿⣣⠀⠀⠀⠀⠀⠀⠀⠀⠀  Contact: apurbaroy00011@gmail.com
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⡅⡇⠃⡘⢜⢪⢫⢐⢮⢃⢂⢻⣚⢗⡝⡗⡕⡣⡓⡧⡗⠀⠀⠀⠀⠀⠀⠀⠀⠀  Portfolio: https://apurbaroy.vercel.app/
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡒⣷⠂⡖⡾⡺⡯⣹⡺⣍⢏⢿⣾⣳⣷⢷⣗⡷⣱⣿⣣⠀⠀⠀⠀⠀⠀⠀⠀⠀  Contact: 📨apurbaroy00011@gmail.com
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⡅⡇⠃⡘⢜⢪⢫⢐⢮⢃⢂⢻⣚⢗⡝⡗⡕⡣⡓⡧⡗⠀⠀⠀⠀⠀⠀⠀⠀⠀  Portfolio: 🌐https://apurbaroy.vercel.app
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢌⠈⡐⠔⢥⢪⡢⡃⡢⢰⢰⢱⡣⡇⡇⡇⡕⣕⢯⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀  
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠆⢐⠡⠢⡑⠜⣜⣕⡯⣯⣗⢵⢱⢱⢸⢸⡸⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⠐⡨⢨⢾⡹⡼⢼⢵⣳⢯⣷⣗⡝⣜⢮⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  
@@ -22,12 +22,6 @@
 ⠀⠀⠀⢀⡠⣠⢖⣾⡵⣟⢾⢽⣳⣳⢥⠑⢅⢣⠪⡘⠔⡅⣧⣿⣿⡿⣟⣿⣿⣿⢿⣿⢿⣿⡽⣯⡷⣟⣷⣦
 ```
 
-<h1 align="center">
-  <img 
-src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Apurba+Roy;Full+Stack+Developer;DevOps+Engineer;Docker+%7C+VPS+%7C+Nginx&center=true&size=30&color=FF5733&font=Fira+Code" 
-alt="Typing SVG"
-/>
-</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Apurbaroy01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -37,101 +31,102 @@ alt="Typing SVG"
 [My Resume](https://docs.google.com/document/d/1CgOpQREfjU4EgBg_HQWmFKSpUbdMjJeN1ILGkwo-Rvk/edit?usp=sharing)
 
 
-## 👨‍💻 About Me
-
-I'm a Full Stack Developer(MERN) and DevOps Engineer passionate about building modern, scalable, and high-performance web applications. I enjoy designing clean architectures, optimizing performance, and deploying production-ready applications.
-
----
-
-## 💻 My Tech Stack  
-
-<p align="center">
-
-<!-- Programming Languages -->
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/>
-<img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="React Query"/>
-<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
-<img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant Design"/>
-<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-<img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI"/>
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-
-<!-- Backend -->
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
-
-<!-- Database & Auth -->
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/>
-
-<!-- State Management & Validation -->
-
-<!-- Hosting & Deployment -->
-<img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"/>
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"/>
-<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-
-<!-- Tools -->
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
-
-<!-- Design -->
-<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
-
-<!-- Web Basics -->
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-
-<!-- DevOps & Cloud -->
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-<img src="https://img.shields.io/badge/VPS-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" alt="VPS"/>
-<img src="https://img.shields.io/badge/Hostinger-%236733FF.svg?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger"/>
-<img src="https://img.shields.io/badge/CloudPanel-%23007ACC.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="CloudPanel"/>
-<img src="https://img.shields.io/badge/DevOps-%230A0A0A.svg?style=for-the-badge&logo=linux&logoColor=white" alt="DevOps"/>
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
 <div align="center">
 
-| Project | Technologies | Description |
-|---------|--------------|-------------|
-| **🏢 Enterprise Management System** | Next.js, Express.js, MongoDB,PostgreSQL, Redis | Role-based management platform with attendance, leave, payroll, expense tracking, and analytics dashboard. |
-| **🐳 Dockerized MERN Deployment** | Docker, Nginx, VPS, CloudPanel | Containerized MERN application deployed with Docker, Nginx reverse proxy, SSL, and production-ready infrastructure. |
-| **☁️ VPS Server Deployment** | Hostinger VPS, CloudPanel, Nginx | Configured Linux server, reverse proxy, process management, SSL, and automated deployment workflow. |
-| **🛒 E-Commerce Platform** | MongoDB, Express.js, React.js, Node.js | Complete e-commerce solution with product management, shopping cart, admin dashboard, and order management. |
-| **🔐 Authentication System** | Better Auth, Firebase, JWT | Secure authentication with role-based authorization, session handling, and protected APIs. |
-| **⚡ Real-Time Applications** | Socket.IO, Node.js, React.js | Built real-time chat, notifications, and live data synchronization using WebSockets. |
+  # <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Apurba+Roy&center=true&size=30&color=FF5733&font=Fira+Code" alt="Typing SVG"/>
+</h1>
+
+  ### **Full-Stack Software Engineer & DevOps Enthusiast**
+
+  <p align="center">
+    Architecting scalable, production-grade web applications with modern stacks. Focused on clean system design, database performance, and robust cloud deployments.
+  </p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/apurba-roy01" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:apurbaroy00011@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/Apurbaroy01" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-### ✨ Project Highlights
+### ⚡ Executive Summary
 
-- 🚀 Production-ready Full Stack Applications
-- 🐳 Docker & Containerized Deployment
-- ☁️ VPS, Nginx & CloudPanel Server Management
-- 🔒 Secure Authentication & Role-Based Access Control
-- ⚡ Performance Optimization & Scalable Architecture
-- 📦 REST APIs & Real-Time Communication
-- 🏗️ Clean Code, Modular Structure & Best Practices.
+- 🔭 Currently building **distributed backend architectures** and **scalable Next.js/React applications**.
+- 🛠️ Core expertise in **TypeScript**, **Next.js**, **Node.js**, **PostgreSQL**, and **MongoDB**.
+- 🐳 Hands-on with **Docker**, **Nginx reverse proxies**, **Linux VPS environments**, and **CI/CD**.
+- 💡 Passionate about clean code principles, database indexing, caching layers, and high-availability systems.
 
-## 📊 GitHub Stats
+---
+
+### 🛠️ Tech Stack & Architecture Toolkit
+
+#### **Core Languages & Runtime**
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Bash/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
+
+#### **Frontend Engineering**
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white" alt="React Query" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+</p>
+
+#### **Backend, ORM & Caching**
+<p align="left">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+#### **DevOps, Cloud & Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Linux_VPS-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux VPS" />
+  <img src="https://img.shields.io/badge/CloudPanel-007ACC?style=flat-square&logo=cloudflare&logoColor=white" alt="CloudPanel" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+#### **Security & Authentication**
+<p align="left">
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Better_Auth-1F2937?style=flat-square&logo=shield&logoColor=white" alt="Better Auth" />
+  <img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase Auth" />
+</p>
+
+---
+
+### 🚀 Production-Grade Systems & Featured Projects
+
+| Project | Architecture & Tech Stack | Core Highlights |
+| :--- | :--- | :--- |
+| **Enterprise Operations Platform** | `Next.js` `TypeScript` `Express` `PostgreSQL` `Prisma` `Redis` | Multi-tenant ERP platform featuring automated payroll calculation, double-entry financial ledgers, and Redis-cached queries. |
+| **High-Throughput Dockerized Stack** | `Docker` `Nginx` `Node.js` `VPS` `SSL` | Zero-downtime deployment setup utilizing reverse proxy configurations, automated container healing, and SSL termination. |
+| **Distributed Healthcare System** | `Next.js` `Node.js` `MongoDB` `Redis` `Cloudflare R2` | Real-time appointment scheduling, doctor directory with geo-filtering, and optimized image processing with sharp & R2 storage. |
+| **Real-Time Event & Chat Engine** | `Socket.IO` `Node.js` `React` `Tailwind CSS` | Low-latency bi-directional messaging platform with connection state recovery and presence tracking. |
+
+---
+
+### 📈 Engineering Metrics & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurbaroy01&layout=compact&theme=tokyonight" height="150"/>
@@ -142,12 +137,11 @@ I'm a Full Stack Developer(MERN) and DevOps Engineer passionate about building m
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Apurbaroy01&theme=react-dark&area=true&hide_border=true" width="95%" />
 </p>
 
+---
 
-<p align="center">
-  <a href="https://github.com/Apurbaroy01" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/apurba-roy01" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:apurbaroy00011@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<div align="center">
+  <sub>Engineered with precision. Available for senior engineering challenges and architectural consulting.</sub>
+</div>
 
 <!-- 🎨 Profile Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&fontAlign=50&fontAlignY=50&animation=fadeIn&section=footer" />
